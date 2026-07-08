@@ -326,4 +326,8 @@ This project is licensed under the **MIT License**.
 
 ---
 
+<div align="center">
 
+**⭐ If this project helped you understand DeFi protocol design, consider giving it a star.**
+
+</div>
